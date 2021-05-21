@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Travel Form</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto|Sriracha&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <!--<img class="bg" src="bg.jpg" alt="IIT Kharagpur">-->
+    <div class="container">
+        <h1>Sign Up here</h3>
+        <p>Enter your details </p>
+        
+        <form action="../Controller/SignUpController.php" method="post">
+            <input type="text" name="name" id="name" value="uname">
+            <input type="email" name="email" id="email" value="email">
+            <input type="phone" name="phone" id="phone" value="phone">
+            <input type="password" name="password" id="password" value="password">
+            <input type="text" name="user" id="user" value="user">
+            <!--<input type="status" name="status" id="status" value="status"> -->
+            <!--<textarea name="desc" id="desc" cols="30" rows="10" placeholder="Enter any other information here"></textarea>  -->
+            <button class="btn">Submit</button> 
+        </form>
+    </div>
+    <!--<script src="SignUpController.js"></script> -->
+    <!-- INSERT INTO `trip` (`sno`, `name`, `age`, `gender`, `email`, `phone`, `other`, `dt`) VALUES ('2', 'sonali', '23', 'female', 'sonalisharma.10@gmail.com', '7878777777', 'My 1st php insertion.', current_timestamp()) -->
+    
+</body>
+</html>
