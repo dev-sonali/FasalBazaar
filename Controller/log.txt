@@ -1,0 +1,20 @@
+::1	06/03/21 11:15PM	Farmer with farmerId (20) added crop to the stock.
+::1	06/03/21 11:22PM	Farmer with farmerId (20) updated his/her profile.
+::1	06/04/21 09:55AM	Farmer with farmerId (20) added crop to the stock.
+::1	06/04/21 09:56AM	Farmer with farmerId (20) added crop to the stock.
+::1	06/04/21 09:59AM	Farmer with farmerId (20) added crop to the stock.
+::1	06/04/21 10:00AM	Farmer deleted the crop with crop Id (25).
+::1	06/04/21 10:11AM	Admin logged in.
+::1	06/04/21 10:11AM	Retailer with retailer ID (2) logged in.
+::1	06/04/21 10:12AM	Farmer with Farmer ID (20) logged in.
+::1	06/04/21 10:23AM	New user with mail ID (sonalisharma.ss2110@gmail.com) signed in as (farmer) and status='deactive'
+::1	06/04/21 10:26AM	New user with mail ID (sonalisharma.ss2110@gmail.com) signed in as (farmer) and status='deactive'
+::1	06/04/21 11:41AM	New user with mail ID (sonalisharma.ss2110@gmail.com) signed in as (farmer) and status='deactive'
+::1	06/04/21 11:57AM	Admin logged in.
+::1	06/04/21 11:57AM	Admin deleted the farmer with farmer Id (26)
+::1	06/04/21 12:21PM	Retailer with retailer ID (2) logged in.
+::1	06/04/21 12:22PM	Retailer with retailer ID (2) buy the crop (15) from farmer (22).
+::1	06/04/21 12:22PM	Retailer with retailer ID (2) uploaded his/her profile image.
+::1	06/04/21 12:22PM	Retailer with retailer ID (2) removed his/her profile image.
+::1	06/04/21 12:23PM	Retailer with retailer ID (2) updated his/her profile.
+::1	06/04/21 12:46PM	Admin logged in.::1	06/04/21 12:47PM	Admin deleted the farmer with farmer Id (22)::1	06/04/21 12:48PM	New user with mail ID (sonalisharma.ss2110@gmail.com) signed in as (farmer) and status='deactive'::1	06/04/21 12:50PM	Farmer with Farmer ID (20) logged in.::1	06/04/21 12:50PM	Farmer with farmerId (20) added crop to the stock.::1	06/04/21 12:50PM	Farmer deleted the crop with crop Id (26).::1	06/04/21 01:00PM	Farmer with farmerId (20) added crop to the stock.::1	06/04/21 01:00PM	Farmer deleted the crop with crop Id (27).
